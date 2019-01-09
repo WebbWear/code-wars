@@ -10,5 +10,5 @@
 
 function ifChuckSaysSo(){
     const ifChuckSaysSo = () => !true
-      return false == true;
+      return undefined == true;
   }
